@@ -1,0 +1,1 @@
+this is a project to shappern my skillls with shell and terminal while writing scripts in linux
